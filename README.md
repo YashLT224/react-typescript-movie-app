@@ -1,4 +1,19 @@
+# Technologies used
+ReactJS  \
+Typescript \
+MighltMeld \
+Material-UI \
+Done with [Dipesh Malviya](https://www.youtube.com/watch?v=uGnh1NnlEbQ&t=42s)
+
+
+
+
 # Getting Started with Create React App
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
